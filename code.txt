@@ -4,8 +4,8 @@ add(x,y):
   x+y
 
 
-subtract():
-  pass
+subtract(a,b):
+  a-b
 
-divide():
-  pass
+divide(x,y):
+  x/y
