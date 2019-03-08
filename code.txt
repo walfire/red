@@ -6,6 +6,10 @@ add(a,y):
 
 subtract():
   x-y
+subtract(a,b):
+  a-b
 
 divide():
   pass
+divide(x,y):
+  x/y
