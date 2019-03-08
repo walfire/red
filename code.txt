@@ -1,7 +1,7 @@
 
 
-add():
-  pass
+add(x,y):
+  x+y
 
 
 subtract():
