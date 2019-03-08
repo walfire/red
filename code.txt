@@ -1,11 +1,11 @@
 
 
-add(x,y):
-  x+y
+add(a,y):
+  a+y
 
 
 subtract():
-  pass
+  x-y
 
 divide():
   pass
